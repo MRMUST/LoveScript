@@ -24,4 +24,5 @@ you 종결문 brainf : 없음
 
 **Hello world (난해)**
 
-```I good good like best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best happy like good good good good good good good good good good good like best best best best best best best best best best like good happy
+```I good good like best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best
+ best best best best happy like good good good good good good good good good good good like best best best best best best best best best best like good happy
